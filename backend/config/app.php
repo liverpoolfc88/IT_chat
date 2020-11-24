@@ -161,6 +161,15 @@ return [
         Illuminate\Translation\TranslationServiceProvider::class,
         Illuminate\Validation\ValidationServiceProvider::class,
         Illuminate\View\ViewServiceProvider::class,
+        Laravel\Passport\PassportServiceProvider::class,
+
+
+//          Client ID: 1
+////        Client secret: kzeeX1VGPLxnqMwENq4n8NH6lc0HS2lmCjv3dhAp
+////        Password grant client created successfully.
+////        Client ID: 2
+////        Client secret: EAJKJGhV0fx3bpFINsqmiC67z6tEwuCKSo4N7ZNF
+
 
         /*
          * Package Service Providers...
